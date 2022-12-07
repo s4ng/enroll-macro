@@ -11,7 +11,7 @@
 
 * ### 주소
 
-  - https://warm-bastion-12968.herokuapp.com/
+  - https://s4ng-enroll-macro.fly.dev/
 
 
 
