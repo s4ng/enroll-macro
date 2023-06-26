@@ -5,7 +5,7 @@ const puppeteer = require("puppeteer");
 console.log(puppeteer.executablePath());
 /* 테스트 데이타
 const userId = "20172465";
-const userPw = "tkdrms2tlqkf?!";
+const userPw = "";
 
 let enroll = {
     "927287" : "01",
