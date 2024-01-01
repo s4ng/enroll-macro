@@ -11,7 +11,6 @@
 
 * ### 주소
 
-  - ~https://s4ng-enroll-macro.fly.dev/~
   - 배포 중단
 
 
